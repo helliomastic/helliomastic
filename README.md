@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, Python, javascript courses etc.**
 
-- 📝 I regularly write articles on [blog post](blog post)
+- 📝 I regularly write articles on (blog post)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about...
 
 - 📫 How to reach me **prabeshsaiyaju2526@gmail.com**
 
